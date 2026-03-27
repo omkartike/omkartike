@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on increasing my knowledge about tech and coding 💻<br>And want to join open source projects so that i can contribute more towards the community 😸<br>I will be happy to join group projects so that i can learn teamwork 📍<br>Currently i'm learning javascript then i'll go to typescript.<br>And im going to start my cs degree in jan 2026 at University of Wolverhampton , United Kingdom 👀 <br>Hopefully i'll be able to do something big , something impactful.<br>I decided to build my own tecch based company so that i can solve problems of others🥰.<br>I'm also trying to maintain and build my discipline by regularly building my good habits🙌😁........
+Im currently working on increasing my knowledge about tech and coding 💻<br>And want to join open source projects so that i can contribute more towards the community 😸<br>I will be happy to join group projects so that i can learn teamwork 📍<br>Currently i'm learning javascript then i'll go to typescript. <br>Hopefully i'll be able to do something big , something impactful.<br>I decided to build my own tecch based company so that i can solve problems of others🥰.<br>I'm also trying to maintain and build my discipline by regularly building my good habits🙌😁........
 
 
 ## 🌐 Socials:
