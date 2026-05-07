@@ -1,18 +1,42 @@
-# 💫 About Me:
-Im currently working on increasing my knowledge about tech and coding 💻<br>And want to join open source projects so that i can contribute more towards the community 😸<br>I will be happy to join group projects so that i can learn teamwork 📍<br>Currently i'm learning javascript then i'll go to typescript. <br>Hopefully i'll be able to do something big , something impactful.<br>I decided to build my own tecch based company so that i can solve problems of others🥰.<br>I'm also trying to maintain and build my discipline by regularly building my good habits🙌😁........
+# Hi, I'm Om Kartike 👋
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/omkartike) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omkartiike) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/om-kartike) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkartikk2910@outlook.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omkartike&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omkartike&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkartike&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Aspiring **AI/ML Engineer** based in Delhi, India. Currently in a structured gap year building 
+real skills — MERN stack, Python/AI, and cloud — before pursuing a BSc in Computer Science 
+in Europe.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omkartike&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!---- Proudly created with GPRM ( https://gprm.itsvg.in ) ---->
+## 🛠️ Tech Stack
+
+**Currently building with:**
+- Python · JavaScript · Node.js · Express.js · React (learning)
+- Google ADK · Gemini API · Cloud Run
+
+**Learning next:**
+- TypeScript · MongoDB · Docker
+- AWS Cloud Practitioner (in progress)
+
+---
+
+## 🚀 Featured Project
+
+### [adk-text-summarizer](https://github.com/omkartike/adk-text-summarizer)
+Text summarization AI agent built with **Google ADK + Gemini 2.5 Flash** for Gen AI Academy APAC.  
+Deployed on **Google Cloud Run** with a REST API and web UI.  
+→ *Production-ready, containerized, end-to-end AI pipeline.*
+
+---
+
+## 🎯 What I'm working toward
+
+- 🤝 Contributing to open source (targeting **GSoC 2027** — TensorFlow / Hugging Face orgs)
+- 🇪🇺 BSc Computer Science at a European university (Poland/Netherlands/Sweden)
+- ☁️ AWS Cloud Practitioner & Google AI certifications
+- 🗣️ Learning German (A2 → B2 target by 2027)
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-kartike)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkartikk2910@outlook.com)
