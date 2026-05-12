@@ -10,6 +10,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Om+Kartike+👋;AI/ML+|+OpenSource+Contributer+from+Delhi;Python+%7C+AI%2FML+%7C+Web+Dev;GSoC+2027+is+the+goal+🎯;Learning+German+🇩🇪+slowly+but+seriously)](https://git.io/typing-svg)
 
+![Alt Text](https://media.tenor.com/cjTHLasRrcIAAAAC/one-piece-luffy.gif)
+
 </div>
 
 ---
