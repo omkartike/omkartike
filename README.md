@@ -126,7 +126,7 @@
 | Program | Status | Contributions |
 |---|---|---|
 | 🌸 Nexus Spring of Code | ✅ Completed | 4 PRs merged |
-| 🎃 Hacktoberfest 2025 | 🎯 Upcoming | — |
+| 🎃 Hacktoberfest 2026 | 🎯 Upcoming | — |
 | ☀️ GSoC 2027 | 🔭 In preparation | — |
 
 </div>
