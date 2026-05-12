@@ -133,14 +133,13 @@
 
 ### 🐍 Contribution Snake
 
-> ⚙️ **Setup required:** Add [this GitHub Action](https://github.com/Platane/snk) to your repo to auto-generate the snake animation.
-
 <div align="center">
 
-<!-- Once set up, uncomment the line below -->
-<!-- ![snake gif](https://github.com/omkartike/omkartike/blob/output/github-contribution-grid-snake-dark.svg) -->
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="github gif"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omkartike/omkartike/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omkartike/omkartike/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/omkartike/omkartike/output/github-snake.svg" />
+</picture>
 
 </div>
 
