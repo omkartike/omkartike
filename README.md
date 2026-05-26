@@ -36,6 +36,11 @@
 </td>
 <td width="45%" align="center">
 
+
+
+
+
+
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8yMHp5bnR2dXFnaDhxenJrYW5rN2NoandkM2sxdWExNG12Y3JmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" />
 
 </td>
@@ -45,6 +50,24 @@
 ---
 
 <div align="center">
+
+
+### 🔥 Currently Building
+
+> *Updated: May 2026*
+
+```python
+now = {
+    "role":       "Social Media Manager + Campus Ambassador @ CDN IGNOU",
+    "learning":   ["Python DSA", "MERN Stack", "Google AI Essentials"],
+    "building":   "AI Agent projects for portfolio & GSoC prep",
+    "next_cert":  "Google AI Essentials → AZ-900",
+    "open_to":    "Beginner-friendly OSS issues & collaborations"
+}
+```
+
+---
+
 
 ### 🌐 Connect With Me
 
