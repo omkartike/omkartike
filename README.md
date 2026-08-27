@@ -22,13 +22,12 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 **Social Media Manager** & **Campus Ambassador** @ CDN IGNOU *(May 2026)*
 - 🔭 Building toward **GSoC 2027** — in foundational phase right now
 - 🌱 Currently grinding: **Python · DSA · Git workflows · MERN**
 - ☁️ Cert roadmap: **Google AI Essentials → AZ-900 → AWS CCP**
 - 🤖 Deployed an **AI Agent** on Google Cloud Run using ADK + Gemini
 - 🌍 Also learning: **German (A2 → B2 goal)**
-- 🎓 End goal: **BSc abroad → MSc in Germany**
+- 🎓 End goal: **MSc in Germany**
 - 🤝 Open to: **beginner-friendly OSS collaboration**
 - 🏙️ Based in: **Delhi, India**
 - ⚡ Fun fact: I debug by explaining the problem to my rubber duck 🦆
@@ -58,7 +57,7 @@
 
 ```python
 now = {
-    "role":       "Social Media Manager + Campus Ambassador @ CDN IGNOU",
+    "role":       "Microsoft Learn Student Ambassador",
     "learning":   ["Python DSA", "MERN Stack", "Google AI Essentials"],
     "building":   "AI Agent projects for portfolio & GSoC prep",
     "next_cert":  "Google AI Essentials → AZ-900",
@@ -227,7 +226,7 @@ April 2026 ━━━━━━━━━━━━━━━━━━━━━━━
 ├─ 🤖 AI/ML (Google ADK · Gemini · TensorFlow)
 ├─ 🌸 Open Source (Nexus SoC → Hacktoberfest → GSoC prep)
 ├─ 🇩🇪 German A1 → B2
-└─ 🎓 BSc applications (Poland · Netherlands · Sweden · Czech)
+
 ```
 
 </div>
